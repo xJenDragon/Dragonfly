@@ -3,5 +3,4 @@ A sleek macOS productivity app that helps you effortlessly manage your day. Impo
 
 [![Watch the video](https://img.youtube.com/vi/mBQMuDAe4rE/hqdefault.jpg)](https://www.youtube.com/embed/<VIDEO_ID>)
 
-[<img src="https://img.youtube.com/vi/mBQMuDAe4rE/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/<VIDEO_ID>)
+[<img src="https://img.youtube.com/vi/mBQMuDAe4rE/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/embed/<VIDEO_ID>)
